@@ -16,3 +16,6 @@ Fikirleri için Arise tesekkürler...
 ![image](https://cdn.discordapp.com/attachments/887034843089748008/977089084973518848/Untitled.png)
 ![image](https://cdn.discordapp.com/attachments/887034843089748008/976869251149365278/Untitled.png)
 ![image](https://cdn.discordapp.com/attachments/887034843089748008/977182340906385428/Untitled.png)
+![image](https://cdn.discordapp.com/attachments/887034843089748008/977315728262832168/Untitled.png)
+![image](https://cdn.discordapp.com/attachments/887034843089748008/977315727990226984/teyitbilgi.png)
+![image](https://cdn.discordapp.com/attachments/887034843089748008/977315727671427092/loglarr.png)
