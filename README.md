@@ -12,5 +12,5 @@ Fikirleri için Arise tesekkürler...
 # Sunucu Tag Rol Etkinlik Çekiliş Rol Dağıtma Komutu
 ![image](https://cdn.discordapp.com/attachments/887034843089748008/976866476353011732/Untitled.png)
 # Bunlarada Bakarsın
-![image](https://cdn.discordapp.com/attachments/887034843089748008/976866476353011732/Untitled.png)
+![image](https://cdn.discordapp.com/attachments/887034843089748008/976866475832930344/Untitled3.png)
 ![image](https://cdn.discordapp.com/attachments/887034843089748008/976869251149365278/Untitled.png)
