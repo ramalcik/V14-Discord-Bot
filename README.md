@@ -12,6 +12,7 @@ Fikirleri için Arise tesekkürler...
 ![image](https://cdn.discordapp.com/attachments/887034843089748008/976781959487430676/unknown_3.png)
 # Sunucu Tag Rol Etkinlik Çekiliş Rol Dağıtma Komutu
 ![image](https://cdn.discordapp.com/attachments/887034843089748008/976866476353011732/Untitled.png)
-# Bunlarada Bakarsın
+# Botla Alakalı Resimler :)
 ![image](https://cdn.discordapp.com/attachments/887034843089748008/977089084973518848/Untitled.png)
 ![image](https://cdn.discordapp.com/attachments/887034843089748008/976869251149365278/Untitled.png)
+![image](https://cdn.discordapp.com/attachments/887034843089748008/977182340906385428/Untitled.png)
