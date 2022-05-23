@@ -1,1 +1,1 @@
-﻿50 Starda Burda Kardeşim :)
+﻿50 Starda Bot Burda Olacak :)
