@@ -5,7 +5,7 @@ Burdan Bana Destek Olan Meriaz#3488 Meriazin dc idsi 852814638889828372 codelar�
 
 Fikirleri için Arise tesekkürler...
 
-# Yan Hesaptan Star Attiklari İcin Stari 60 a yükselttim Kusura Bakmayın
+# Yan Hesaptan Star Attıkları İçin Starı 60 a yükselttim Kusura Bakmayın
 
 ![image](https://cdn.discordapp.com/attachments/887034843089748008/976781958958968875/unknown_1.png)
 - 
