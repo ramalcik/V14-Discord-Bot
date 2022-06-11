@@ -26,3 +26,7 @@ Fikirleri için Arise tesekkürler...
 # Guard ile Alaklı Birkac Resim
 ![image](https://cdn.discordapp.com/attachments/884843442671337512/978957591214444544/Untitled.png)
 ![image](https://cdn.discordapp.com/attachments/884843442671337512/978957591583526933/guard2.png)
+# Geliştirdiğimize Dair ile Alakalı Bir Kaç Resim
+![image](https://cdn.discordapp.com/attachments/887034843089748008/985115205518364752/banner_komut_ss.png)
+![image](https://cdn.discordapp.com/attachments/887034843089748008/985115230508040212/hg_mesaj_ss.png)
+![image](https://cdn.discordapp.com/attachments/887034843089748008/985115250808455168/log_emoji_kurulum_ss.png)
