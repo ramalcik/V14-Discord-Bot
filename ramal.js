@@ -1,1 +1,1 @@
-﻿50 Starda Bot Burda Olacak :)
+﻿55 Starda Bot Burda Olacak :)
