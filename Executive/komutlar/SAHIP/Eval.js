@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 
 exports.run = async (client, message, args, durum, kanal) => {
   if (!message.guild) return
-  let sahip = ["852814638889828372","",""]
+  let sahip = ["","",""]
   if (!sahip.some(x => x == message.author.id)) return;
   if (!args[0]) return message.channel.send(`Kod belirtilmedi`);
   let code = args.join(' ');
