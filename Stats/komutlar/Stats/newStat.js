@@ -19,7 +19,7 @@ module.exports.run = async (client, message, args, durum, kanal) => {
         MuteAmount: 0,
         VoiceMuteAmount: 0
     };
-    let statemoji = client.emojis.cache.find(x => x.name === "axze_stat");
+    let statemoji = client.emojis.cache.find(x => x.name === "ramal_stat");
     let BanMiktar = profilData.BanAmount
     let JailMiktar = profilData.JailAmount
     let MuteMiktar = profilData.MuteAmount;
