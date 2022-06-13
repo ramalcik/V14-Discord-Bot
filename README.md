@@ -1,6 +1,6 @@
 # V13 Ramal? Bot
 
-# Repoyu Yeni Görenler Starlasın Fork Atsın Yakında Repoyu Dolu Göreceksiniz.
+# Bot v12 Olarak Paylaşıldı Botda Az Bir şey kod aldım kalanları bana aitdir daha fazla star gelirse v13 halini burada gore bilirsiniz.
 
 55 Starda Paylaşılacak Bot Tamamen Setup Komutu İle Ayarlanıyor Aşağıdaki Resimlerden göre biliriniz ne kadar hızlı star o kadar hızlı gelir bot iyi günler <3
 Burdan Bana Destek Olan Meriaz#3488 Meriazin dc idsi 852814638889828372 codeları için tesekkürler   Benim Discord Ramal?#0024  Benim Dc id 849041724097691679
