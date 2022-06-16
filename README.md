@@ -1,6 +1,6 @@
 # V13 Ramal? Bot
 
-# Bot v12 Olarak Paylaşıldı Botda Az Bir şey kod aldım kalanları bana aitdir daha fazla star gelirse v13 halini burada gore bilirsiniz.    
+# Bot v12 Olarak Paylaşıldı star gelirse v13 halinide atarım
 
 # Botu Aldıktan Sonra Gidip Paylaşıp Benim Diye Gezmeyin.
 
