@@ -28,7 +28,7 @@ module.exports.run = async (client, message, args, durum, kanal) => {
         veri.forEach(v => v.forEach(x => arr.push(x)));
 
 
-        let statemoji = client.emojis.cache.find(x => x.name === "axze_stat");
+        let statemoji = client.emojis.cache.find(x => x.name === "ramal_stat");
         let data = await Stat.findOne({
             userID: target.id,
             guildID: message.guild.id
@@ -139,7 +139,7 @@ module.exports.run = async (client, message, args, durum, kanal) => {
         })
         let eglencepuan = parseInt((stream / (1000 * 60 * 60 * 1) * streamPuan)) + parseInt((oyunodalar / (1000 * 60 * 60 * 1) * oyunPuan)) + parseInt((music / (1000 * 60 * 60 * 1) * musicPuan));
 let ses = client.convertDuration(data.totalVoice);
-        let embed = new MessageEmbed().setColor("RANDOM").setFooter(`🌟 Kahve sizi önemsiyor ❤️ ${message.guild.name}`)
+        let embed = new MessageEmbed().setColor("RANDOM").setFooter(`ramal ❤️ ${message.guild.name}`)
        .setDescription(`${target} kullanıcısının yetki yükseltim bilgileri aşağıda belirtilmiştir.`)
 
 .addField("__**Toplam Ses**__", `\`\`\`fix\n${ses ? ses : "Veri Bulunamadı"}\`\`\``, true)
