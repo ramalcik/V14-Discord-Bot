@@ -1,12 +1,11 @@
 # V13 Ramal? Bot
 
-# Bot v12 Olarak Paylaşıldı star gelirse v13 halinide atarım
+# Biliyorsunuz Botun Eski Hali ve v12 Olarak Atıldı Bu Botun Güncel Halini 85 Stara Buraya Atacağım Buda Küçük Bir Ss Geliştirdikce ssleri buraya atacağım Ne Kadar Hızlı Starlanırsa O kadar Hızlı Gelir Bot Buraya İyi Günler.
 
-# Botu Aldıktan Sonra Gidip Paylaşıp Benim Diye Gezmeyin.
+![image](https://cdn.discordapp.com/attachments/950685345031282728/989175226757709914/Adsz.png)
 
 Bot Pm2 dir npm i cekerek modullerini indire bilirsiniz. 
 
-55 Starda Paylaşılacak Bot Tamamen Setup Komutu İle Ayarlanıyor Aşağıdaki Resimlerden göre biliriniz ne kadar hızlı star o kadar hızlı gelir bot iyi günler <3
 Burdan Bana Destek Olan Meriaz#3488 Meriazin dc idsi 852814638889828372 codeları için tesekkürler   Benim Discord Ramal?#0024  Benim Dc id 849041724097691679
 
 Fikirleri için Arise tesekkürler...
