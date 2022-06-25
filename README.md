@@ -15,6 +15,8 @@ Burdan Bana Destek Olan Meriaz#3488 Meriazin dc idsi 852814638889828372 codelar�
 
 Fikirleri için Arise tesekkürler...
 
+![image](https://cdn.discordapp.com/attachments/887034843089748008/990305391281856582/unknown_3.png)
+
 ![image](https://cdn.discordapp.com/attachments/987382875852771399/987401542388838400/Adsz.png)
 
 ![image](https://cdn.discordapp.com/attachments/950685345031282728/985644323943096431/unknown.png)
