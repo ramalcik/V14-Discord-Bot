@@ -1,6 +1,6 @@
 # V13 Ramal? Bot
 
-# Biliyorsunuz Botun Eski Hali ve v12 Olarak Atıldı Bu Botun Güncel Halini 85 Stara Buraya Atacağım Buda Küçük Bir Ss Geliştirdikce ssleri buraya atacağım Ne Kadar Hızlı Starlanırsa O kadar Hızlı Gelir Bot Buraya İyi Günler.
+# Biliyorsunuz Botun Eski Hali ve v12 Olarak Atıldı Bu Botun Güncel Halini 90 Stara Buraya Atacağım Buda Küçük Bir Ss Geliştirdikce ssleri buraya atacağım Ne Kadar Hızlı Starlanırsa O kadar Hızlı Gelir Bot Buraya İyi Günler.
 
 # Botu Kullanıp Ben Kendim Yazdım Diyenlere Sesleniyorum artık bırakın şu boş işleri gidin az birşeyler öğrenin.
 
