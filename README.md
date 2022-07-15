@@ -17,6 +17,7 @@ Fikirleri için Arise tesekkürler...
 
 ![image](https://cdn.discordapp.com/attachments/887034843089748008/997575069972828281/ramalkur1.png)
 ![image](https://cdn.discordapp.com/attachments/887034843089748008/997575069696012348/ramalkur.png)
+![image](https://cdn.discordapp.com/attachments/887034843089748008/997577913559957696/ramalcikmenu.png)
 ![image](https://cdn.discordapp.com/attachments/887034843089748008/997574437689892874/ramalmeri1.png)
 ![image](https://cdn.discordapp.com/attachments/887034843089748008/997574438021234718/ramalmeri2.png)
 
