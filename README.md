@@ -13,7 +13,7 @@
 
 # Hatırlatma!
 * Botların bir çok konusunda meriazdan yardım aldım sonra gelip çaldın filan demeyin
-* Buda onun githubu [Meriaz](https://github.com/xMeriaz)'
+* Buda onun githubu [Meriaz](https://github.com/xMeriaz)
 
 # Botun Özellikler
 
