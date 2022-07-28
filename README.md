@@ -1,20 +1,27 @@
 # V13 Ramal? Bot
 
-# Biliyorsunuz Botun Eski Hali ve v12 Olarak Atıldı Bu Botun Güncel Halini 120 Stara Buraya Atacağım Buda Küçük Bir Ss Geliştirdikce ssleri buraya atacağım Ne Kadar Hızlı Starlanırsa O kadar Hızlı Gelir Bot Buraya İyi Günler.
+# Proje Hakkında Bilgi
 
-# Botu Kullanıp Ben Kendim Yazdım Diyenlere Sesleniyorum artık bırakın şu boş işleri gidin az birşeyler öğrenin.
+* Selam, github reposuna hoşgeldin. Bu repomda kullanmış olduğum botları tanıtacağım.
+* Botlar konusunda bana yardım eden Meriaza Teşekkür ederim
+* Fikirleri için Arise tesekkürler...
 
-![image](https://cdn.discordapp.com/attachments/887034843089748008/989265305090003024/unknown_1.png)
-![image](https://cdn.discordapp.com/attachments/887034843089748008/989264297404284998/unknown.png)
 
-Aynen Knka Herşeyi Sen Yaptın Adamın Nicki Bu bot filan yaptıracaksanız buna para filan ödemeyin burdaki altyapıları kullanıyor dcde ki nicki Lowzy#6525  buda 2ci hesabı Lowzy#0505 1 yıl önce birisine abi dediğim o zamanlar bot yapmayı bile bilmiyordum 1 2 tane kod istedim diye türeme olduk şimdi çıkın karşıma öyle eski ssleri alıp kendinizi avutmayın.
+* Not: Bu Botları 120-125 star gelince paylaşıcam.
 
-Bot Pm2 dir npm i cekerek modullerini indire bilirsiniz. 
 
-Burdan Bana Destek Olan Meriaz#3488 Meriazin dc idsi 852814638889828372 codeları için tesekkürler   Benim Discord Ramal?#0024  Benim Dc id 849041724097691679
 
-Fikirleri için Arise tesekkürler...
+# Hatırlatma!
+* Botların bir çok konusunda meriazdan yardım aldım sonra gelip çaldın filan demeyin
+* Buda onun githubu [Meriaz](https://github.com/xMeriaz)'
 
+# Botun Özellikler
+
+* Piyasadaki Bir Çok Botdan Kaliteli Rol Dağıtmadan tut taç hesaptan banlamaya kadar hızlı rol dağıtma v.s
+
+* Botları güncelledikce görsellerini aşağıya yüklicem.
+
+# Ufak Görseller
 ![image](https://cdn.discordapp.com/attachments/970980005192536076/1000051185664938075/Adsz.png)
 ![image](https://cdn.discordapp.com/attachments/887034843089748008/997575069972828281/ramalkur1.png)
 ![image](https://cdn.discordapp.com/attachments/887034843089748008/997575069696012348/ramalkur.png)
