@@ -29,3 +29,4 @@
 ![image](https://cdn.discordapp.com/attachments/1001567119344926740/1007380091652804618/kontrol_komutu.png)
 ![image](https://cdn.discordapp.com/attachments/887034843089748008/999094222407860345/Adsz.png)
 ![image](https://cdn.discordapp.com/attachments/1001567119344926740/1007380701013889104/hg_mesaji.png)
+![image](https://cdn.discordapp.com/attachments/1001567119344926740/1007383748075061248/invite_mesaj.png)
