@@ -22,6 +22,8 @@
 * Botları güncelledikce görsellerini aşağıya yüklicem.
 
 # Ufak Görseller
+![image](https://cdn.discordapp.com/attachments/1001567119344926740/1008065657763541132/kontrol_ss.png)
+![image](https://cdn.discordapp.com/attachments/1001567119344926740/1008065657029529600/top_stats_ss.png)
 ![image](https://cdn.discordapp.com/attachments/1001567119344926740/1007380163497050143/setupkomut.png)
 ![image](https://cdn.discordapp.com/attachments/1001567119344926740/1007380162221985792/help_komutu.png)
 ![image](https://cdn.discordapp.com/attachments/1001567119344926740/1007380162939203624/ecrolalma_komut.png)
