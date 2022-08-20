@@ -3,8 +3,8 @@
 # Proje Hakkında Bilgi
 
 * Selam, github reposuna hoşgeldin. Bu repomda kullanmış olduğum botları tanıtacağım.
-* Botlar konusunda bana yardım eden Meriaz LycRicks Teşekkür ederim
-* Fikirleri için LycRicks tesekkürler...
+* Botlar konusunda bana yardım eden Meriaz Teşekkür ederim
+* Fikirleri için Arise tesekkürler...
 
 
 * Not: Bu Botları 140-150 star gelince paylaşıcam.
@@ -12,7 +12,7 @@
 
 
 # Hatırlatma!
-* Botların bir çok LycRicks Meriaz Yardım Alarak Yaptım
+* Botların bir çok Meriaz Yardım Alarak Yaptım
 * Buda onların githubu [Meriaz](https://github.com/xMeriaz)
 
 # Botun Özellikler
