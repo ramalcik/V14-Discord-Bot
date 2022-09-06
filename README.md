@@ -19,7 +19,7 @@
 
 * Piyasadaki Bir Çok Botdan Kaliteli Rol Dağıtmadan tut taç hesaptan banlamaya kadar hızlı rol dağıtma v.s
 
-* Botları güncelledikce görsellerini aşağıya yüklicem.
+* Botları güncelledikce görsellerini aşağıya koyucam.
 
 # Ufak Görseller
 ![image](https://cdn.discordapp.com/attachments/1001567119344926740/1016506602989305856/config.png)
