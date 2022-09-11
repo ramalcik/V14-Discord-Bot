@@ -23,6 +23,7 @@
 
 # Ufak Görseller
 ![image](https://cdn.discordapp.com/attachments/1001567119344926740/1016506602989305856/config.png)
+![image](https://cdn.discordapp.com/attachments/1009367435402547240/1018599205293535302/stats.png)
 ![image](https://cdn.discordapp.com/attachments/1001567119344926740/1016509030807646309/guardlik.png)
 ![image](https://cdn.discordapp.com/attachments/1001567119344926740/1016506603219996723/config_unreg.png)
 ![image](https://cdn.discordapp.com/attachments/1001567119344926740/1016265163625726002/helpss_komut.png)
