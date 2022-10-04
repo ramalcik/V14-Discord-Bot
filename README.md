@@ -22,6 +22,7 @@
 * Botları güncelledikce görsellerini aşağıya koyucam.
 
 # Ufak Görseller
+![image](https://cdn.discordapp.com/attachments/1006698954248966336/1026860255151407116/selam_ver.png)
 ![image](https://cdn.discordapp.com/attachments/1001567119344926740/1016506602989305856/config.png)
 ![image](https://cdn.discordapp.com/attachments/1009367435402547240/1018599205293535302/stats.png)
 ![image](https://cdn.discordapp.com/attachments/1001567119344926740/1016509030807646309/guardlik.png)
