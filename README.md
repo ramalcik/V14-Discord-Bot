@@ -2,7 +2,7 @@
 
 # Proje Hakkında Bilgi
 
-* Arkadaşlar Botu Almak İsteyen Beni Eklesin ✰ Ramal?#0278 id 962417173043753022
+* Arkadaşlar Botu Almak İsteyen Beni Eklesin `Ramal.#9999` id 962417173043753022
 * Selam, github reposuna hoşgeldin. Bu repomda kullanmış olduğum botları tanıtacağım.
 * Botlar konusunda bana yardım eden Meriaz Teşekkür ederim
 * Fikirleri için Arise tesekkürler...
